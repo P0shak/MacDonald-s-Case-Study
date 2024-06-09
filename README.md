@@ -1,3 +1,3 @@
 # MacDonald-s-Case-Study
-By Villuri Poshak Prajeet
-Here is the code!
+# By Villuri Poshak Prajeet
+# Here is the code!
