@@ -1,3 +1,3 @@
-# MacDonald-s-Case-Study
+# McDonald-s-Case-Study
 # By Villuri Poshak Prajeet
 # Here is the code!
